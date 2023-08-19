@@ -1,0 +1,40 @@
+/* 
+// https://www.youtube.com/watch?v=Rkvn_MA04fo
+// 00:13:06
+// 2. jQuery Selectors
+*/
+
+#div1 {
+    margin: auto;
+    text-align: center;
+    border: 3px black dotted;
+    font-size: 30px;
+    background-color: cadetblue;
+    height: 300px;
+    width: 300px;
+    position: relative;
+}
+
+/* #div2 {
+    margin: auto;
+    margin-top: 10px;
+    text-align: center;
+    border: 3px black dotted;
+    font-size: 30px;
+    background-color: yellow;
+    height: 300px;
+    width: 300px;
+    position: relative;
+} */
+
+#div3 {
+    margin: auto;
+    margin-top: 10px;
+    text-align: center;
+    border: 3px black dotted;
+    font-size: 30px;
+    background-color: rgb(135, 136, 136);
+    height: 300px;
+    width: 300px;
+    position: relative;
+}
