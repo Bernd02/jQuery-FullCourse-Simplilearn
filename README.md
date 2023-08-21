@@ -18,7 +18,7 @@ Tutorial Project - https://www.youtube.com/watch?v=Rkvn_MA04fo
     - Interactions
     - Theme Customization
 
-- Implementaions
+- Implementations
     - Calculator
     - ToDo List
 
