@@ -1,5 +1,3 @@
-import("../jQuery/jquery-3.7.0.js");
-
 // 01:25:30 > DOM Manipulation
 $(() => {
     // # html-inhoud van p1 kopieëren naar span1

@@ -1,5 +1,3 @@
-import("../jQuery/jquery-3.7.0.js");
-
 // 01:16:42 > Callback Functions
 
 // Callback Functies zijn

@@ -1,5 +1,3 @@
-import("../jQuery/jquery-3.7.0.js");
-
 // https://www.youtube.com/watch?v=Rkvn_MA04fo
 // 00:13:06
 // 2. jQuery Selectors

@@ -1,0 +1,7 @@
+# jsconfig nodig om intellisense voor jQuery te activeren
+
+- Import() vooraan de js-file geeft soms problemen (widgets > dialog)
+
+- https://medium.com/@vibhoragrawal/turning-on-the-auto-complete-for-jquery-in-vscode-1e047738beae
+
+- https://stackoverflow.com/questions/41777327/jquery-intellisense-in-vs-code

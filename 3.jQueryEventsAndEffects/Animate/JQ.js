@@ -1,5 +1,3 @@
-import("../../jQuery/jquery-3.7.0.js");
-
 // 01:09:30 > Effects > Animate
 $(() => {
     // $("#btn").on("click", () => {

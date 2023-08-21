@@ -1,6 +1,3 @@
-import("../../jQuery/jquery-3.7.0.js");
-import("../../jquery-ui-1.13.2/jquery-ui.js");
-
 // 02:02:17 > Widgets > DatePicker
 $(() => {
     $("#date").datepicker(

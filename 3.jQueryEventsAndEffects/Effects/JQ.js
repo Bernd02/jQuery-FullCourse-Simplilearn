@@ -1,5 +1,3 @@
-import("../../jQuery/jquery-3.7.0.js");
-
 $(() => {
     // # Show - Hide
     $("#btn1").on("click", () => {

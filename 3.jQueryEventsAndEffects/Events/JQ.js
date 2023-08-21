@@ -1,5 +1,3 @@
-import("../../jQuery/jquery-3.7.0.js");
-
 $(() => {
     // $("#img1").mouseenter(() => {
     //     $("#img1").css("width", "500px");
